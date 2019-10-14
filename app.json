@@ -9,5 +9,8 @@
     "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle": "black"
   },
+  "usingComponents": {
+    "van-button": "vant-weapp/button"
+  },
   "sitemapLocation": "sitemap.json"
 }
